@@ -8,7 +8,7 @@
         "github.com/gin-gonic/gin"
         "github.com/joho/godotenv"
 
-        "github.com/thomasfsr/fitness-app/tree/master/internal/infrastructure/db"
+        "github.com/thomasfsr/fitness-app/internal/infrastructure/db"
         repo "github.com/thomasfsr/fitness-app/internal/infrastructure/repository"
         "github.com/thomasfsr/fitness-app/internal/interface/http"
         "github.com/thomasfsr/fitness-app/internal/usecase"

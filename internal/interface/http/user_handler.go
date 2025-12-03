@@ -5,8 +5,8 @@ import (
     "strconv"
 
     "github.com/gin-gonic/gin"
-    "github.com/yourusername/fitness-app/internal/domain/user"
-    "github.com/yourusername/fitness-app/internal/usecase"
+    "github.com/thomasfsr/fitness-app/internal/domain/user"
+    "github.com/thomasfsr/fitness-app/internal/usecase"
 )
 
 type userRequest struct {

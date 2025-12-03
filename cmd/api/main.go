@@ -8,10 +8,10 @@
         "github.com/gin-gonic/gin"
         "github.com/joho/godotenv"
 
-        "github.com/yourusername/fitness-app/internal/infrastructure/db"
-        repo "github.com/yourusername/fitness-app/internal/infrastructure/repository"
-        "github.com/yourusername/fitness-app/internal/interface/http"
-        "github.com/yourusername/fitness-app/internal/usecase"
+        "github.com/thomasfsr/fitness-app/internal/infrastructure/db"
+        repo "github.com/thomasfsr/fitness-app/internal/infrastructure/repository"
+        "github.com/thomasfsr/fitness-app/internal/interface/http"
+        "github.com/thomasfsr/fitness-app/internal/usecase"
     )
 
     func main() {

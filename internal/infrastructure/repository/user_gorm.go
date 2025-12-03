@@ -2,10 +2,8 @@ package repository
 
 import (
     "time"
-
     "gorm.io/gorm"
-
-    "github.com/yourusername/fitness-app/internal/domain/user"
+    "github.com/thomasfsr/fitness-app/internal/domain/user"
 )
 
 type UserGormRepository struct {

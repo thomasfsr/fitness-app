@@ -1,7 +1,7 @@
 package usecase
 
 import (
-    "github.com/yourusername/fitness-app/internal/domain/user"
+    "github.com/thomasfsr/fitness-app/internal/domain/user"
 )
 
 type UserUseCase struct {
